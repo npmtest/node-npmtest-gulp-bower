@@ -1,7 +1,7 @@
 # test coverage for  [gulp-bower (v0.0.13)](https://github.com/zont/gulp-bower#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-bower.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-bower)
 #### Install Bower packages.
 
-[![NPM](https://nodei.co/npm/gulp-bower.png?downloads=true)](https://www.npmjs.com/package/gulp-bower)
+[![NPM](https://nodei.co/npm/gulp-bower.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-bower)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-bower/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-bower/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-bower/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-bower/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-bower/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-bower/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-bower/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-bower%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-bower/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-bower/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-bower%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-bower/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-bower/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-bower/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-bower/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-bower/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-bower/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-bower/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-bower/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Alexander Zonov",
-        "email": "zont@pochta.ru"
+        "name": "Alexander Zonov"
     },
     "bugs": {
         "url": "https://github.com/zont/gulp-bower/issues"
@@ -74,13 +79,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "alexander.zonov",
-            "email": "zont@pochta.ru"
+            "name": "alexander.zonov"
         }
     ],
     "name": "gulp-bower",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/zont/gulp-bower.git"
