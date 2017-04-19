@@ -1,4 +1,7 @@
-# test coverage for  [gulp-bower (v0.0.13)](https://github.com/zont/gulp-bower#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-bower.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-bower)
+# npmtest-gulp-bower
+
+#### basic test coverage for  [gulp-bower (v0.0.13)](https://github.com/zont/gulp-bower#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-bower.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-bower)
+
 #### Install Bower packages.
 
 [![NPM](https://nodei.co/npm/gulp-bower.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-bower)
